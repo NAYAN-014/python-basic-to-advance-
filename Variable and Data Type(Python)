@@ -1,0 +1,218 @@
+## What is a Variable in Python?
+
+A **variable** is a name used to store data in memory. You can think of it like a labeled box where you keep a value.
+
+### Syntax
+
+```python
+variable_name = value
+```
+
+### Example
+
+```python
+name = "Nayan"
+age = 20
+salary = 50000.50
+```
+
+Here:
+
+* `name` stores a string.
+* `age` stores an integer.
+* `salary` stores a decimal number.
+
+### Rules for Variable Names
+
+✅ Can contain letters, numbers, and underscores (`_`)
+
+✅ Must start with a letter or underscore.
+
+❌ Cannot start with a number.
+
+❌ Cannot use Python keywords (`if`, `for`, `class`, etc.)
+
+Examples:
+
+```python
+student_name = "Rahul"   # Correct
+_age = 20                # Correct
+age2 = 21                # Correct
+
+2age = 21                # Wrong
+class = "Python"         # Wrong
+```
+
+---
+
+# What is a Data Type?
+
+A **data type** tells Python what kind of value is stored in a variable.
+
+Example:
+
+```python
+age = 20
+```
+
+Python knows `20` is an integer.
+
+---
+
+# Common Data Types in Python
+
+| Data Type | Description          | Example            |
+| --------- | -------------------- | ------------------ |
+| int       | Integer numbers      | `10`               |
+| float     | Decimal numbers      | `10.5`             |
+| str       | Text                 | `"Hello"`          |
+| bool      | True/False           | `True`             |
+| list      | Ordered collection   | `[1,2,3]`          |
+| tuple     | Immutable collection | `(1,2,3)`          |
+| set       | Unique values        | `{1,2,3}`          |
+| dict      | Key-value pairs      | `{"name":"Nayan"}` |
+| complex   | Complex numbers      | `3+4j`             |
+| NoneType  | No value             | `None`             |
+
+---
+
+## Example
+
+```python
+age = 20
+price = 99.99
+name = "Nayan"
+is_student = True
+
+print(type(age))
+print(type(price))
+print(type(name))
+print(type(is_student))
+```
+
+Output
+
+```
+<class 'int'>
+<class 'float'>
+<class 'str'>
+<class 'bool'>
+```
+
+---
+
+# Python is Dynamically Typed
+
+You don't need to specify the data type.
+
+```python
+x = 10
+x = "Python"
+```
+
+This is perfectly valid.
+
+---
+
+# Type Conversion
+
+```python
+age = "20"
+
+print(int(age))
+print(float(age))
+```
+
+---
+
+# 50 Python Practice Questions (Variables & Data Types)
+
+## Beginner (1–10)
+
+1. Create a variable named `name` and store your name.
+2. Create a variable `age` and print it.
+3. Store your city in a variable.
+4. Store your height as a float.
+5. Print the type of an integer variable.
+6. Print the type of a string variable.
+7. Print the type of a float variable.
+8. Create a Boolean variable.
+9. Print all variables together.
+10. Change the value of a variable and print it.
+
+---
+
+## Easy (11–20)
+
+11. Swap two variables using a third variable.
+12. Swap two variables without using a third variable.
+13. Create three variables in one line.
+14. Assign the same value to three variables.
+15. Find the type of a complex number.
+16. Store a list and print its type.
+17. Store a tuple and print its type.
+18. Store a dictionary and print its type.
+19. Store a set and print its type.
+20. Store `None` and print its type.
+
+---
+
+## Type Conversion (21–30)
+
+21. Convert `"100"` into an integer.
+22. Convert `"99.9"` into a float.
+23. Convert `25` into a string.
+24. Convert `5.8` into an integer.
+25. Convert `True` into an integer.
+26. Convert `0` into a Boolean.
+27. Convert `1` into a Boolean.
+28. Convert a list into a tuple.
+29. Convert a tuple into a list.
+30. Convert a string into a list of characters.
+
+---
+
+## Intermediate (31–40)
+
+31. Take your name as input and print it.
+32. Take age as input and convert it into an integer.
+33. Take two numbers and print their sum.
+34. Find the type of user input before conversion.
+35. Convert user input into a float.
+36. Create variables of five different data types.
+37. Print all variable types in one program.
+38. Store marks in a list and print the type.
+39. Store student details in a dictionary.
+40. Store unique numbers in a set.
+
+---
+
+## Logical & Mixed (41–50)
+
+41. Check whether a variable is an integer using `type()`.
+42. Check whether a variable is a string.
+43. Check whether a variable is a float.
+44. Create a variable with a Boolean value and print it.
+45. Create a complex number and print its type.
+46. Write a program that prints the data type of 10 different variables.
+47. Create variables using meaningful names.
+48. Take three inputs: name, age, and city, then print them.
+49. Convert a string `"123"` to an integer and multiply it by 10.
+50. Create a small student profile using variables (`name`, `age`, `marks`, `city`, `is_student`) and print all the details.
+
+---
+
+## Challenge Questions (Bonus)
+
+* Create a calculator using variables.
+* Build a student information program.
+* Calculate BMI using variables.
+* Convert temperature from Celsius to Fahrenheit.
+* Calculate simple interest.
+* Calculate the area of a rectangle.
+* Swap three variables.
+* Create a shopping bill using variables.
+* Convert seconds into hours, minutes, and seconds.
+* Build a mini employee information system.
+
+These 50 questions are excellent practice for beginners and are commonly asked in Python interviews, lab exams, and coding assessments.
