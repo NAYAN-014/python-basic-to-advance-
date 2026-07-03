@@ -1,0 +1,94 @@
+Day 2: Python Operators (30 Practice Questions)
+
+ Topics to Learn
+
+* Arithmetic Operators (`+`, `-`, `*`, `/`, `//`, `%`, `**`)
+* Assignment Operators (`=`, `+=`, `-=`, `*=`, `/=`)
+* Comparison Operators (`==`, `!=`, `>`, `<`, `>=`, `<=`)
+* Logical Operators (`and`, `or`, `not`)
+* Identity Operators (`is`, `is not`)
+* Membership Operators (`in`, `not in`)
+* Operator Precedence (BODMAS)
+
+---
+
+# Level 1 (Questions 1–10)
+
+1. Write a program to add two numbers.
+2. Write a program to subtract two numbers.
+3. Write a program to multiply two numbers.
+4. Write a program to divide two numbers.
+5. Find the remainder when one number is divided by another.
+6. Find the quotient using floor division (`//`).
+7. Find the square of a number using `**`.
+8. Find the cube of a number.
+9. Calculate the average of three numbers.
+10. Calculate the area of a rectangle.
+
+---
+
+# Level 2 (Questions 11–20)
+
+11. Swap two numbers using arithmetic operators.
+12. Use `+=` to increase a number by 10.
+13. Use `-=` to decrease a number by 5.
+14. Use `*=` to double a number.
+15. Use `/=` to divide a number by 2.
+16. Check whether two numbers are equal.
+17. Check whether one number is greater than another.
+18. Check whether a person is eligible to vote (`age >= 18`).
+19. Find the largest of two numbers using a comparison operator.
+20. Check whether a number lies between 10 and 50.
+
+---
+
+# Level 3 (Questions 21–30)
+
+21. Check if a number is positive **and** even.
+22. Check if a number is divisible by 3 **or** 5.
+23. Use `not` to reverse a Boolean value.
+24. Check whether `"Python"` is present in a sentence using `in`.
+25. Check whether `"Java"` is **not** present in a sentence.
+26. Check whether two variables refer to the same object using `is`.
+27. Check whether two variables do **not** refer to the same object using `is not`.
+28. Predict the output:
+
+```python
+print(5 + 2 * 3)
+```
+
+29. Predict the output:
+
+```python
+print((5 + 2) * 3)
+```
+
+30. Create a mini calculator that takes two numbers and prints:
+
+* Addition
+* Subtraction
+* Multiplication
+* Division
+* Floor Division
+* Modulus
+* Exponent
+
+---
+
+# Bonus Challenge (Optional)
+
+Try solving these without looking at the answer:
+
+1. Calculate the Simple Interest.
+2. Calculate the Compound Interest.
+3. Build a BMI Calculator.
+4. Convert Celsius to Fahrenheit.
+5. Convert Fahrenheit to Celsius.
+6. Calculate Percentage of 5 Subjects.
+7. Check whether a year is a leap year (using logical operators).
+8. Calculate Electricity Bill (basic conditions).
+9. Calculate GST on a product.
+10. Create a Salary Calculator (Basic + HRA + DA - Tax).
+
+---
+
