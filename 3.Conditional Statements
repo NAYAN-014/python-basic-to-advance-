@@ -1,0 +1,68 @@
+🐍 Day 03 – Python Conditional Statements
+
+📖 Topics Covered
+
+* `if` Statement
+* `if-else` Statement
+* `if-elif-else`
+* Nested `if`
+* Short-hand `if`
+* Logical Conditions (`and`, `or`, `not`)
+* Match Case (Python 3.10+)
+
+💻 Practice
+
+* Solve **30 Python Conditional Statement** questions.
+* Build mini projects like Grade Calculator and ATM Menu.
+
+🎯 Learning Outcome
+
+* Make decisions in Python programs.
+* Write programs based on different conditions.
+* Use nested conditions and logical operators.
+* Improve problem-solving skills with real-life examples.
+
+---
+
+📝 30 Practice Questions
+
+ 🟢 Beginner (1–10)
+
+1. Check if a number is positive or negative.
+2. Check if a number is even or odd.
+3. Find the greater of two numbers.
+4. Check if a person is eligible to vote.
+5. Check if a person is eligible for a driving license (18+).
+6. Check whether a number is divisible by 5.
+7. Check whether a number is divisible by both 3 and 5.
+8. Find the smallest of two numbers.
+9. Check if a number is zero.
+10. Check whether a character is a vowel or consonant.
+
+ 🟡 Intermediate (11–20)
+
+11. Find the largest of three numbers.
+12. Check whether a year is a leap year.
+13. Calculate student grades (A, B, C, D, Fail).
+14. Check whether a number is a multiple of 7.
+15. Check if a person is a child, teenager, adult, or senior.
+16. Check whether a character is uppercase or lowercase.
+17. Check if a number lies between 1 and 100.
+18. Check whether a triangle is valid.
+19. Find the absolute value of a number.
+20. Check if a password length is at least 8 characters.
+
+ 🔴 Advanced (21–30)
+
+21. Create a simple login system (username & password).
+22. ATM withdrawal eligibility (balance check).
+23. Electricity bill calculator.
+24. Income tax calculator (basic slabs).
+25. Discount calculator based on purchase amount.
+26. BMI category checker.
+27. Find the greatest of four numbers.
+28. Ticket price calculator based on age.
+29. Menu-driven calculator using `if-elif`.
+30. Rock-Paper-Scissors game using conditional statements.
+
+These questions will give you a solid understanding of decision-making in Python and prepare you well for coding interviews and internships.
