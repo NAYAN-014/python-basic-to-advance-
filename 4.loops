@@ -192,4 +192,51 @@ ABCDE
 4. Password Retry System (Maximum 3 Attempts)
 5. Student Marks Average Calculator
 
+
+
 ---
+
+
+# 🐍 Day 04 – Python Loops
+
+## 📖 Topics Covered
+- for Loop
+- while Loop
+- range()
+- Nested Loops
+- break
+- continue
+- pass
+
+## 💻 Practice
+- Solved **40 Python Loop** questions.
+- Built loop-based mini projects.
+
+## 🎯 Learning Outcome
+- Used loops to automate repetitive tasks.
+- Solved number-based and pattern-printing problems.
+- Learned loop control using `break`, `continue`, and `pass`.
+
+---
+
+## 💻 LeetCode Practice (10 Problems)
+
+| #  | LeetCode # | Problem                                              |
+| -- | ---------- | ---------------------------------------------------- |
+| 1  | **412**    | Fizz Buzz                                            |
+| 2  | **1480**   | Running Sum of 1D Array                              |
+| 3  | **509**    | Fibonacci Number                                     |
+| 4  | **1137**   | N-th Tribonacci Number                               |
+| 5  | **1342**   | Number of Steps to Reduce a Number to Zero           |
+| 6  | **1281**   | Subtract the Product and Sum of Digits of an Integer |
+| 7  | **2520**   | Count the Digits That Divide a Number                |
+| 8  | **9**      | Palindrome Number                                    |
+| 9  | **231**    | Power of Two                                         |
+| 10 | **263**    | Ugly Number                                          |
+
+### 📅 Suggested Schedule
+
+* **Theory:** 30–45 minutes
+* **Coding Practice:** 2–3 hours
+* **LeetCode:** 2–3 problems
+* **GitHub Upload:** Push all solutions with a clean `README.md`
