@@ -1,0 +1,196 @@
+Awesome! 🎉 You're making good progress.
+
+# 🐍 Day 04 – Python Loops
+
+## 📖 Topics Covered
+
+* `for` Loop
+* `while` Loop
+* Nested Loops
+* `break`
+* `continue`
+* `pass`
+* `range()`
+* Infinite Loops
+* Loop Control Statements
+
+---
+
+## 💻 Practice
+
+* Solve **40 Python Loop** questions.
+* Build **5 mini projects** using loops.
+
+---
+
+## 🎯 Learning Outcome
+
+* Repeat tasks efficiently using loops.
+* Use `for` and `while` loops confidently.
+* Generate patterns and sequences.
+* Solve number-based problems.
+* Control loop execution using `break`, `continue`, and `pass`.
+
+**Next:** Day 05 – Strings
+
+---
+
+# 📝 40 Practice Questions
+
+## 🟢 Beginner (1–10)
+
+1. Print numbers from 1 to 10.
+2. Print numbers from 10 to 1.
+3. Print all even numbers from 1 to 100.
+4. Print all odd numbers from 1 to 100.
+5. Print the multiplication table of a number.
+6. Find the sum of the first N natural numbers.
+7. Find the factorial of a number.
+8. Print the square of numbers from 1 to 10.
+9. Print the cube of numbers from 1 to 10.
+10. Count from 1 to N using a `while` loop.
+
+---
+
+## 🟡 Intermediate (11–20)
+
+11. Reverse counting using `while`.
+12. Find the sum of even numbers from 1 to N.
+13. Find the sum of odd numbers from 1 to N.
+14. Count the number of digits in an integer.
+15. Reverse a number.
+16. Check whether a number is a palindrome.
+17. Find the product of digits of a number.
+18. Calculate the sum of digits.
+19. Find the largest digit in a number.
+20. Find the smallest digit in a number.
+
+---
+
+## 🟠 Advanced (21–30)
+
+21. Print the Fibonacci series up to N terms.
+22. Check whether a number is prime.
+23. Print all prime numbers from 1 to 100.
+24. Find the GCD of two numbers.
+25. Find the LCM of two numbers.
+26. Print the first N multiples of a number.
+27. Print all numbers divisible by both 3 and 5.
+28. Find the Armstrong number.
+29. Find the Perfect number.
+30. Print all leap years between two years.
+
+---
+
+## 🔴 Pattern Printing (31–40)
+
+31.
+
+```text
+*
+**
+***
+****
+*****
+```
+
+32.
+
+```text
+*****
+****
+***
+**
+*
+```
+
+33.
+
+```text
+1
+12
+123
+1234
+12345
+```
+
+34.
+
+```text
+1
+22
+333
+4444
+55555
+```
+
+35.
+
+```text
+A
+AB
+ABC
+ABCD
+ABCDE
+```
+
+36.
+
+```text
+*****
+*****
+*****
+*****
+*****
+```
+
+37.
+
+```text
+    *
+   ***
+  *****
+ *******
+*********
+```
+
+38.
+
+```text
+1
+2 3
+4 5 6
+7 8 9 10
+```
+
+39.
+
+```text
+*****
+*   *
+*   *
+*   *
+*****
+```
+
+40.
+
+```text
+    1
+   121
+  12321
+ 1234321
+123454321
+```
+
+---
+
+# 🚀 Mini Projects
+
+1. Number Guessing Game
+2. ATM Menu (Loop Until Exit)
+3. Simple Calculator (Repeat Until User Exits)
+4. Password Retry System (Maximum 3 Attempts)
+5. Student Marks Average Calculator
+
+---
